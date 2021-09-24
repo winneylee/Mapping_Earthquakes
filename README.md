@@ -1,7 +1,7 @@
 # Mapping_Earthquakes
 
 ## Project Overview
-Purpose of this project is to gather earthquake GEOJSON data and create an interactive earthquake mapping using leaflet includes different layers and major earthquake information.\
+Purpose of this project is to gather earthquake GEOJSON data and create an interactive earthquake mapping using leaflet includes different layers and major earthquake information.
 
 ## Resources
 -All earthquake geoJSON data: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson  
